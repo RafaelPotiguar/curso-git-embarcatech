@@ -1,0 +1,25 @@
+Lista de comandos:
+1 mkdir embarcatech
+2 git init --initial-branch=main
+3 mkdir embarcatech
+4 cd embarcatech/
+5 git init -initial-branch=main
+6 git init --initial-branch=main
+7 git config user.name "Rafael Martins da Silva"
+8 git config --list --local
+9 git config user.email "rafaelpv02@yahoo.com.br"
+10 git config --list --local
+11 nano nome_e_matricula.txt
+12 git add nome_e_matricula.txt
+13 git status
+14 git commit -m "Primeiro commit"
+15 git status
+16 git remote add add origin-github https://github.com/RafaelPotiguar/curso-git-embarcatech.git
+17 git remote add origin-github https://github.com/RafaelPotiguar/curso-git-embarcatech.git
+18 git push -u origin-github main
+19 nano lista_de_comandos.txt
+20 git add lista_de_comandos.txt
+21 git status
+22 git commit -m "Segundo commit"
+23 git push -u origin-github main
+24 git log
